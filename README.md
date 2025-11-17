@@ -1,4 +1,4 @@
-# BLENDED LEARNING
+[# BLENDED LEARNING
 # Implementation of Principal Component Analysis (PCA) for Dimensionality Reduction on Energy Data
 
 ## AIM:
@@ -31,8 +31,8 @@ Create visualizations of the principal components to interpret patterns and clus
 ```
 /*
 Program to implement Principal Component Analysis (PCA) for dimensionality reduction on the energy data.
-Developed by: BINDHUJAA S
-RegisterNumber: 212224230038
+Developed by: ABIRAMI .A 
+RegisterNumber: 212224040010
 
 
 # Import necessary libraries
@@ -90,3 +90,4 @@ plt.show()
 
 ## Result:
 Thus, Principal Component Analysis (PCA) was successfully implemented to reduce the dimensionality of the energy dataset.
+](https://github.com/Abirami538/BLENDED_LEARNING-Implementation-of-PCA-for-Dimensionality-Reduction-on-Energy-Data)
